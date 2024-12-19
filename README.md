@@ -118,9 +118,5 @@ The POS tag distribution plot provides insights into the frequency of various PO
   ```
 - Replace the placeholder spell-checking function with a more sophisticated implementation for better accuracy.
 
-## Author
-Developed by [Jagadhish3](https://github.com/Jagadhish3).
 
----
-**Repository**: [POS-Tagging-and-Spell-Checking](https://github.com/Jagadhish3/POS-Tagging-and-Spell-Checking)
 
